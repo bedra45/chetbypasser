@@ -1,1 +1,6 @@
+if setclipboard then 
+setclipboard("https://discord.gg/nxqqdnkDFP") game.Players.LocalPlayer:Kick("chetbypasser hacked by penguin. join the new chetbypasser.\nhttps://discord.gg/nxqqdnkDFP\n COPIED TO CLIPBOARD")
+else
 game.Players.LocalPlayer:Kick("chetbypasser hacked by penguin. join the new chetbypasser.\nhttps://discord.gg/nxqqdnkDFP")
+end
+
